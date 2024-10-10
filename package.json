@@ -1,0 +1,26 @@
+{
+  "name": "my-vue-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "@iconify/iconify": "^3.1.1",
+    "element-plus": "^2.8.4",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@iconify/json": "^2.2.258",
+    "@purge-icons/generated": "^0.10.0",
+    "@types/vue": "^2.0.0",
+    "@vitejs/plugin-vue": "^4.1.0",
+    "vite": "^4.3.9",
+    "vite-plugin-purge-icons": "^0.10.0",
+    "vite-plugin-svg-icons": "^2.0.1"
+  }
+}
